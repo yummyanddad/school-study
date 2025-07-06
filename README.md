@@ -4,7 +4,9 @@
 
 ### 英语
 
-1. [单词发音](./primary/5-second/english/单词发音总结.md)
+#### 单词辨音
+
+1. [单词发音总结](./primary/5-second/english/单词辨音/单词发音总结.md)
 
 ### 语文
 
